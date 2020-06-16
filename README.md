@@ -13,6 +13,6 @@ Node Red flow -
 
 
 
-UI Screen -
+Deployed User Interface -
 
 ![](https://github.com/SmartPracticeschool/llSPS-INT-2081-Predicting-Life-Expectancy-using-Machine-Learning/blob/master/Extra/webpage%20ui.PNG)
